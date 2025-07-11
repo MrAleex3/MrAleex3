@@ -1,16 +1,26 @@
-## Hi there 👋
+![Header](./Alex.png)
 
-<!--
-**MrAleex3/MrAleex3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h1 align="center">Hola 👋, soy José Alejandro</h1>
+<h3 align="center">Apasionado por la automatización, desarrollo de herramientas y soluciones eficientes ⚙️💻</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Tecnologías y herramientas que uso:
+- 🛠️ AutoHotkey, Python, Bash, Excel VBA, SQL
+- 🖥️ Windows, Linux, Redes
+- ☁️ Git, GitHub, GitHub Actions
+
+---
+
+### 🧠 Actualmente estoy:
+- 🚀 Desarrollando scripts en ahk para automatizar tareas de producción y análisis de datos
+- 🛠️ Mejorando herramientas internas de control de calidad
+- 📚 Aprendiendo más sobre desarrollo backend y automatización avanzada
+
+---
+
+### 📫 ¿Cómo contactarme?
+- 📧 jose.espinoza@FII-NA.com
+- 💼 [LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/alejandro-espinoza-63aa9b168/))
+- 🗂️ Revisa mis repos públicos para ver ejemplos de mis proyectos
