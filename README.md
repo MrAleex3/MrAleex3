@@ -1,7 +1,7 @@
 ![Header](./Alex.png)
 
 
-<h1 align="center">Hola 👋, soy José Alejandro</h1>
+
 <h3 align="center">Apasionado por la automatización, desarrollo de herramientas y soluciones eficientes ⚙️💻</h3>
 
 ---
