@@ -6,21 +6,21 @@
 
 ---
 
-### 🧰 Tecnologías y herramientas que uso:
+### 🧰 Tecnologias y herramientas que uso:
 - 🛠️ AutoHotkey, Python, Bash, Excel VBA, SQL
 - 🖥️ Windows, Linux, Redes
-- ☁️ Git, GitHub, GitHub Actions
+- ☁️ Git, GitHub, GitHub Actions, Render
 
 ---
 
 ### 🧠 Actualmente estoy:
-- 🚀 Desarrollando scripts en ahk para automatizar tareas de producción y análisis de datos
+- 🚀 Desarrollando scripts en python para automatizar tareas de produccion y análisis de datos
 - 🛠️ Mejorando herramientas internas de control de calidad
-- 📚 Aprendiendo más sobre desarrollo backend y automatización avanzada
+- 📚 Aprendiendo más sobre desarrollo backend y automatizacion avanzada
 
 ---
 
 ### 📫 ¿Cómo contactarme?
 - 📧 jose.espinoza@FII-NA.com
 - 💼 [LinkedIn]([https://linkedin.com/in/tuusuario](https://www.linkedin.com/in/alejandro-espinoza-63aa9b168/))
-- 🗂️ Revisa mis repos públicos para ver ejemplos de mis proyectos
+- 🗂️ Revisa mis repos publicos para ver ejemplos de mis proyectos
