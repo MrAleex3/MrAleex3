@@ -5,6 +5,7 @@
 <h3 align="center">Apasionado por la automatización, desarrollo de herramientas y soluciones eficientes ⚙️💻</h3>
 
 ---
+<figure><embed src="https://wakatime.com/share/@eafa7e94-ce96-491e-bf55-ca324fc91ffe/9322802e-34ad-4806-9a63-e2913e4ae9d7.svg"></embed></figure>
 
 ### 🧰 Tecnologias y herramientas que uso:
 - 🛠️ AutoHotkey, Python, Bash, Excel VBA, SQL
