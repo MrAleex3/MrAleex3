@@ -6,7 +6,7 @@
 
 ---
 <p align="center">
-  <img src="https://wakatime.com/share/@eafa7e94-ce96-491e-bf55-ca324fc91ffe/9322802e-34ad-4806-9a63-e2913e4ae9d7.svg" alt="WakaTime Stats" />
+  <img src="https://wakatime.com/badge/user/eafa7e94-ce96-491e-bf55-ca324fc91ffe/project/b2e840f1-1861-4b81-bb7c-8eee95383fcb.svg" alt="WakaTime Stats" />
 </p>
 
 ### 🧰 Tecnologias y herramientas que uso:
