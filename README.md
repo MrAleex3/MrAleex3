@@ -21,7 +21,7 @@ Actualmente me dedico al desarrollo e implementación de herramientas de softwar
 
 ---
 
-### 🛠️ Stack Tecnológico
+### 🛠️ Stack 
 
 **Lenguajes & Core:**
 - 🐍 **Python:** Desarrollo de aplicaciones GUI (Tkinter), automatización de tareas y manejo de archivos.
@@ -30,7 +30,7 @@ Actualmente me dedico al desarrollo e implementación de herramientas de softwar
 - 🚀 **Cloud & Web:** Despliegue y administración de aplicaciones en **Render.com**.
 
 **Despliegue & Distribución (DevOps de Escritorio):**
-- 📦 **Compilación:** Experiencia con **Nuitka**, **PyInstaller** y **PyArmor** (configuración standalone, gestión de dependencias y reducción de falsos positivos en antivirus)..
+- 📦 **Compilación:** Experiencia con **Nuitka**, **PyInstaller** y **PyArmor** (configuración standalone, gestión de dependencias)..
 - 🚀 **Update Systems:** Creación de instaladores y scripts personalizados de actualización vía red (LAN) con control de versiones y backups automáticos.
 - 🛡️ **Control de Versiones:** Git, GitHub, GitHub Actions.
 
