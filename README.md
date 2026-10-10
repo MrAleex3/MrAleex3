@@ -4,6 +4,8 @@
 
 Desarrollo herramientas de software para optimizar flujos de trabajo en entornos de producción. Mi trabajo abarca aplicaciones de escritorio y web, desde la lógica de negocio hasta su compilación, distribución y mantenimiento en redes corporativas.
 
+![WakaTime](https://wakatime.com/badge/user/eafa7e94-ce96-491e-bf55-ca324fc91ffe/project/b2e840f1-1861-4b81-bb7c-8eee95383fcb.svg)
+
 ## Sobre mí
 
 Trabajo en el desarrollo e implementación de herramientas internas para el área de pruebas funcionales en manufactura. La mayoría de mis proyectos parten de un problema concreto en el piso de producción y buscan concentrar en una sola pantalla información que hoy está repartida entre carpetas, servidores y sistemas distintos.
